@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="atas" />
+    <string name="aatas">atas</string>
+    <string name="bawah">bawah</string>
+</resources>
